@@ -57,13 +57,13 @@ The dashboard consists of **5 pages**, each with a specific focus:
 - Sales, Profit, Discount, Quantity  
 
 ## 📷 Dashboard Preview
-###Home Page
+### Home Page
 <img src="Images/Screenshot 2025-06-28 165106.png" width="500"/>
-###Executive Overview 
+### Executive Overview 
 <img src="Images/Screenshot 2025-06-28 165124.png" width="500"/>
-###Product performance
+### Product performance
 <img src="Images/Screenshot 2025-06-28 165143.png" width="500"/>
-###Geographical Insights
+### Geographical Insights
 <img src="Images/Screenshot 2025-06-28 165231.png" width="500"/>
-###Q & A
+### Q & A
 <img src="Images/Screenshot 2025-06-28 165246.png" width="500"/>
