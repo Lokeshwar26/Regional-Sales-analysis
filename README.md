@@ -57,4 +57,4 @@ The dashboard consists of **5 pages**, each with a specific focus:
 - Sales, Profit, Discount, Quantity  
 
 ## 📷 Dashboard Preview
-Images
+<img src="" width="500"/>
