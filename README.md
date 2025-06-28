@@ -56,7 +56,20 @@ The dashboard consists of **5 pages**, each with a specific focus:
 - Product Category and Sub-Category  
 - Sales, Profit, Discount, Quantity  
 
-> Note: Dataset used is publicly available and cleaned for demo purposes.
-
 ## 📷 Dashboard Preview
-![Dashboard Snapshot](Images/Screenshot 2025-06-28 165106.png)
+## 📷 Dashboard Preview
+
+### 🏠 Home Page
+![Home Page](images/Screenshot2025-06-28165106.png)
+
+### 📋 Executive Overview
+![Executive Overview](images/overview.png)
+
+### 📦 Product Performance
+![Product Performance](images/product.png)
+
+### 🗺️ Geographical Insights
+![Geographical Insights](images/geo.png)
+
+### ❓ Q & A Page
+![Q & A Page](images/qna.png)
