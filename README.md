@@ -60,7 +60,7 @@ The dashboard consists of **5 pages**, each with a specific focus:
 ## 📷 Dashboard Preview
 
 ### 🏠 Home Page
-![Home Page](images/Screenshot2025-06-28165106.png)
+Images/Screenshot 2025-06-28 165106.png
 
 ### 📋 Executive Overview
 ![Executive Overview](images/overview.png)
