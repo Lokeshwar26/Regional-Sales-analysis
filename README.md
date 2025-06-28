@@ -59,4 +59,4 @@ The dashboard consists of **5 pages**, each with a specific focus:
 > Note: Dataset used is publicly available and cleaned for demo purposes.
 
 ## 📷 Dashboard Preview
-Images/Screenshot 2025-06-28 165106.png
+![Dashboard Snapshot](Images/Screenshot 2025-06-28 165106.png)
