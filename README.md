@@ -59,11 +59,15 @@ The dashboard consists of **5 pages**, each with a specific focus:
 ## 📷 Dashboard Preview
 ### Home Page
 <img src="Images/Screenshot 2025-06-28 165106.png" width="500"/>
+
 ### Executive Overview 
 <img src="Images/Screenshot 2025-06-28 165124.png" width="500"/>
+
 ### Product performance
 <img src="Images/Screenshot 2025-06-28 165143.png" width="500"/>
+
 ### Geographical Insights
 <img src="Images/Screenshot 2025-06-28 165231.png" width="500"/>
+
 ### Q & A
 <img src="Images/Screenshot 2025-06-28 165246.png" width="500"/>
